@@ -1,0 +1,3 @@
+0 Black Shirt
+1 Red Shirt
+2 Background
